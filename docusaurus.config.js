@@ -100,8 +100,8 @@ const config = {
                 href: "https://onlycoiners.com",
               },
               {
-                label: "Discord",
-                href: "https://redstone.finance/discord",
+                label: "Telegram",
+                href: "https://t.me/OnlyCoiners",
               },
               {
                 label: "Twitter",
@@ -113,22 +113,14 @@ const config = {
             title: "🚀 We are hiring",
             items: [
               {
-                label: "Open Positions",
-                href: "https://angel.co/company/redstonefinance",
-              },
-              {
-                label: "Our Team",
-                href: "https://onlycoiners.com/team",
+                label: "Contact Us",
+                href: "https://onlycoiners.com/user/onlycoiners",
               },
             ],
           },
           {
             title: "📚 More",
             items: [
-              {
-                label: "Blog",
-                href: "https://medium.com/@RedStone_Finance",
-              },
               {
                 label: "GitHub",
                 href: "https://github.com/onlycoiners",

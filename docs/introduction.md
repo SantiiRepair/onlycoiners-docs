@@ -5,53 +5,77 @@ sidebar_label: "Introduction"
 
 # Introduction
 
-![Banner](/img/redstone-banner.png)
+OnlyCoiners is akin to OnlyFans for crypto enthusiasts, aspiring to become the premier community for crypto users and beyond. While our roots are in the crypto world, using OnlyCoiners doesn't necessitate engaging with crypto-related features.
 
-RedStone is an Oracle that delivers frequently updated, reliable, and diverse data feeds for your dApp and smart contracts on multiple L1s & L2s.
+### Why Invest in Onlycoin?
 
-### Why we build another Oracle system
+- For content creators and businesses, Onlycoin offers the flexibility to earn passive income through ad revenue sharing. The token's decentralized platform allows creators to publish content, set their preferred revenue split with advertisers, and ultimately share in the advertising revenue generated.
+- By offering a verification system for its users, Onlycoin aims to create a trusted and secure environment. The verification process involves users submitting identity documents and proof of their real-world identity. This ensures that Onlycoin users are verified and authentic, thereby improving the overall trustworthiness of the platform.
+- With a user-friendly interface, Onlycoin enables its users to effortlessly access the latest and most popular content. The platform's user-centered design allows users to easily navigate through different sections and find the content they are looking for. Additionally, Onlycoin offers advanced features such as user profiles, messaging capabilities, and more.
+- In terms of community engagement and reward, Onlycoin rewards its users with tokens for participating in various activities. Users can earn tokens for creating content, verifying their identities, and sharing the platform with others. These tokens can then be used to purchase items and services within the Onlycoin ecosystem. This unique incentive-based system fosters a strong sense of community and encourages active participation from users.
 
-- Pushing data on-chain regardless of whether it is used or not is a huge waste of resources
-- Obsolete and monolithic architecture limits scalability (it's hard to list new assets or reduce latency)
-- Protocols cannot fully decide on trusted sources and data update conditions
-- End-users are fully dependent on relayers and could be cut off from the service
+### Project Objectives
 
-### Solution
+Currently with a 1% tax that can be turned off, what we want is to attract a large user base for self-sustainability with the tax and a focus on continuous development to benefit our users.
 
-RedStone offers a radically different design of Oracles catering to the needs of modern DeFi protocols.
+Our goal is to maintain an active and satisfied user base, ensuring the long-term success of our project. To achieve this, we offer a variety of exclusive features and benefits for registered users.
 
-- Data providers can avoid the requirement of continuous on-chain data delivery
-- Allow end users to self-deliver signed Oracle data on-chain
-- Use the decentralized Streamr network to deliver signed oracle data to the end users
-- Use token incentives to motivate data providers to maintain data integrity and uninterrupted service
-- Leverage the Arweave blockchain as cheap and permanent storage for archiving Oracle data and maintaining data providers' accountability
+In the area of development, we strive to constantly improve the software quality and offer an outstanding user experience. To do this, we have a highly skilled and experienced development team that works tirelessly to solve problems and implement new features.
 
-## Key facts
+As for communication and user support, we also aim to provide an exceptional user experience. We offer effective communication channels, such as forums and notification systems, allowing users to quickly and efficiently express their concerns and concerns. Additionally, we have a highly skilled support team that is available to help users with any problems they may encounter.
 
-- The [modular architecture](./smart-contract-devs/how-it-works.md#data-flow) maintains [data integrity](./smart-contract-devs/how-it-works.md#data-format) from source to smart contracts
-- There are [3 different ways](./smart-contract-devs/how-it-works.md#3-ways-to-integrate) to integrate our service tailored to your needs
-- We provide feeds for more than [1000 assets](https://app.redstone.finance/#/app/tokens) integrating [~50 data sources](https://app.redstone.finance/#/app/sources)
-- We are present on [20+ chains](https://showroom.redstone.finance/)
-- RedStone has been supporting [DeltaPrime](https://deltaprime.io/) since March 2022 and has been live on mainnets since January 2023. Our code was audited by multiple security experts including ABDK, Peckshield and L2Beat Co-Founder.
-- RedStone was a launch partner for [DeltaPrime](https://deltaprime.io/) on Avalanche and delivered data feeds not available anywhere else. Thanks to that DeltaPrime became the top 3 fastest growing dApps according to DefiLama.
+In summary, our long-term approach is to attract a large user base, offer them an exceptional user experience, and stay focused on continuous development and improvement of the software. By achieving this, we believe we can remain financially sustainable and ensure the long-term success of our project.
 
-<a href="https://raw.githubusercontent.com/redstone-finance/redstone-docs/main/static/img/redstone-architecture-simple.png">
-  <img alt="RedStone Architecure" src="/img/redstone-architecture-simple.png" target="_blank"/>
-</a>
+### Features
 
-<!-- ## Building blocks
+The app boasts a plethora of community features that allow users to engage with one another and explore the vast world of cryptocurrencies. Some of these features include:
 
-The RedStone ecosystem could be divided into 3 main areas:
+#### User profiles
 
-- **Data provision** is responsible for fetching the data from external sources, transforming it into a common format, signing it, and broadcasting the collected information.
-  - Implemented as → [RedStone Oracle Node](https://github.com/redstone-finance/redstone-oracles-monorepo/tree/main/packages/oracle-node)
+Each user has their own profile page where they can share information about themselves, their interests, and their trading experiences.
 
-- **Data access** is responsible for serving data to end users by various means, such as a web portal, an HTTP API, on-chain feeds, or third-party applications.
+#### In-app chat
 
-  - Web portal → [RedStone App](https://github.com/redstone-finance/redstone-app)
-  - HTTP API → [RedStone Api](https://github.com/redstone-finance/redstone-api)
-  - EVM connector → [RedStone EVM connector](https://github.com/redstone-finance/redstone-oracles-monorepo/tree/main/packages/evm-connector)
+The chat feature allows users to communicate directly with one another, facilitating a sense of community and collaboration.
 
-- **Data integrity** is responsible for enforcing high quality of data by incentivizing providers with tokens for keeping their service and punishing them for outages and misrepresented data.
-  - Concept → [Argue protocol](https://github.com/redstone-finance/redstone-oracles-monorepo/blob/main/packages/oracle-node/docs/DISPUTE_RESOLUTION.md)
-  - Implementation → [RedStone eth contracts](https://github.com/redstone-finance/redstone-oracles-monorepo/tree/main/packages/eth-contracts) -->
+#### Following and followers
+
+Users can follow their favorite projects or crypto users to receive updates on their activities.
+
+#### Posting system
+
+The posting system enables users to share news, opinions, and other information about the cryptocurrencies they are passionate about.
+
+#### Image and video support
+
+Users can enhance their posts with images and videos, adding an additional layer of depth and multimedia richness to their content.
+
+#### Integrated in-app crypto wallet
+
+The app comes with a built-in crypto wallet that supports Bitcoin and Ethereum, ensuring convenience and security for users who wish to store their digital assets.
+
+#### Token support
+
+In addition to Bitcoin and Ethereum, the wallet will soon support Onlycoin, along with other stable coins.
+
+#### Community feature
+
+Similar to Reddit, this feature allows crypto projects or users who want to learn and trade cryptocurrencies to create their own communities on the website.
+
+### Onlycoin Token
+
+The app features its very own cryptocurrency, Onlycoin, which aims to become the one coin that users love to hold.
+
+#### Total supply
+
+21 million with 18 decimals.
+
+#### Coin mission
+
+To become the only coin that Onlycoiners want to hold.
+
+### Integration 
+
+The Onlycoin token is fully integrated into the app's wallet system, making it convenient for users to access and store their digital assets.
+
+In summary, the app offers a comprehensive array of features that cater to the diverse needs and interests of the global cryptocurrency community. From the integrated in-app crypto wallet to the user-friendly community feature, it is evident that the app was designed with convenience, security, and community engagement in mind.

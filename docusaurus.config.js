@@ -82,7 +82,7 @@ const config = {
       algolia: {
         appId: "BXXQLGVS3Y",
         apiKey: "3e7ddfe0b2a2ce34495188bd1e433dd4",
-        indexName: "redstone",
+        indexName: "onlycoinersonlycoiners",
         contextualSearch: true,
         replaceSearchResultPathname: {
           from: "/next/",

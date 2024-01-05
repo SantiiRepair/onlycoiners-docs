@@ -16,8 +16,8 @@ const config = {
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
-  organizationName: "redstone-finance", // Usually your GitHub org/user name.
-  projectName: "redstone-docs", // Usually your repo name.
+  organizationName: "onlycoiners", // Usually your GitHub org/user name.
+  projectName: "onlycoiners-docs", // Usually your repo name.
 
   // Even if you don't use internalization, you can use this field to set useful
   // metadata like html lang. For example, if your site is Chinese, you may want
@@ -63,7 +63,7 @@ const config = {
         title: "Documentation",
         logo: {
           alt: "OnlyCoiners",
-          src: "img/redstone-logo-full.svg",
+          src: "img/onlycoiners-logo.png",
         },
         items: [
           {
@@ -75,7 +75,7 @@ const config = {
       },
       announcementBar: {
         content:
-          '<strong>⭐️ If you like OnlyCoiners, give it a star on <a target="_blank" rel="noopener noreferrer" href="https://github.com/redstone-finance/redstone-oracles-monorepo">GitHub</a> and follow us on <a target="_blank" rel="noopener noreferrer" href="https://twitter.com/redstone_defi">Twitter</a> ⭐️</strong>',
+          '<strong>⭐️ If you like OnlyCoiners, give it a star on <a target="_blank" rel="noopener noreferrer" href="https://github.com/OnlyCoiners/docs">GitHub</a> and follow us on <a target="_blank" rel="noopener noreferrer" href="https://twitter.com/OnlyCoiners">Twitter</a> ⭐️</strong>',
         backgroundColor: "#FD627A",
         textColor: "white",
       },
@@ -105,7 +105,7 @@ const config = {
               },
               {
                 label: "Twitter",
-                href: "https://twitter.com/redstone_defi",
+                href: "https://twitter.com/OnlyCoiners",
               },
             ],
           },

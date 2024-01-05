@@ -5,12 +5,6 @@ sidebar_label: "🪙 Tokenomics"
 
 # 🪙 Tokenomics
 
-:::danger Requirements
-
-The RedStone token has not been launched yet. Beware of scammers and anyone trying to sell you RedStone tokens.
-
-:::
-
 The token facilitates the provision of reliable and accurate information from the outside world to blockchain networks.
 
 ## Usage of the token

@@ -76,8 +76,8 @@ const config = {
       announcementBar: {
         content:
           '<strong>⭐️ If you like OnlyCoiners, give it a star on <a target="_blank" rel="noopener noreferrer" href="https://github.com/OnlyCoiners/docs">GitHub</a> and follow us on <a target="_blank" rel="noopener noreferrer" href="https://twitter.com/OnlyCoiners">Twitter</a> ⭐️</strong>',
-        backgroundColor: "#FD627A",
-        textColor: "white",
+        backgroundColor: "orange",
+        textColor: "black",
       },
       algolia: {
         appId: "BXXQLGVS3Y",

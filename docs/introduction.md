@@ -74,7 +74,7 @@ The app features its very own cryptocurrency, Onlycoin, which aims to become the
 
 To become the only coin that Onlycoiners want to hold.
 
-### Integration 
+### Integration
 
 The Onlycoin token is fully integrated into the app's wallet system, making it convenient for users to access and store their digital assets.
 

@@ -67,9 +67,14 @@ const config = {
         },
         items: [
           {
-            href: "https://github.com/onlycoiners",
-            label: "GitHub",
+            type: "localeDropdown",
             position: "right",
+          },
+          {
+            href: "https://github.com/onlycoiners",
+            position: "right",
+            className: "header-github-link",
+            "aria-label": "GitHub repository",
           },
         ],
       },

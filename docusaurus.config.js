@@ -24,7 +24,7 @@ const config = {
   // to replace "en" with "zh-Hans".
   i18n: {
     defaultLocale: "en",
-    locales: ["en"],
+    locales: ["en", "es", "pt"],
   },
 
   presets: [
@@ -114,7 +114,7 @@ const config = {
             items: [
               {
                 label: "Contact Us",
-                href: "https://onlycoiners.com/user/onlycoiners",
+                href: "malito:support@onlycoiners.com",
               },
             ],
           },

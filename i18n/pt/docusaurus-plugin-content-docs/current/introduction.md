@@ -1,0 +1,15 @@
+---
+sidebar_position: 1
+sidebar_label: "📜 Introdução"
+---
+
+# 📜 Introdução
+
+OnlyCoiners é semelhante ao OnlyFans para entusiastas de criptografia, aspirando a se tornar a principal comunidade para usuários de criptografia e muito mais. Embora nossas raízes estejam no mundo criptográfico, o uso do OnlyCoiners não exige o envolvimento com recursos relacionados à criptografia.
+
+### Por que investir em Onlycoin?
+
+- Para criadores de conteúdo e empresas, Onlycoin oferece a flexibilidade de obter renda passiva por meio do compartilhamento de receitas de anúncios. A plataforma descentralizada do token permite que os criadores publiquem conteúdo, definam sua divisão preferida de receita com os anunciantes e, por fim, compartilhem a receita publicitária gerada.
+- Ao oferecer um sistema de verificação para seus usuários, Onlycoin visa criar um ambiente confiável e seguro. O processo de verificação envolve o envio de documentos de identidade pelos usuários e prova de sua identidade no mundo real. Isso garante que os usuários do Onlycoin sejam verificados e autênticos, melhorando assim a confiabilidade geral da plataforma.
+- Com uma interface amigável, Onlycoin permite que seus usuários acessem sem esforço o conteúdo mais recente e popular. O design centrado no usuário da plataforma permite que os usuários naveguem facilmente pelas diferentes seções e encontrem o conteúdo que procuram. Além disso, Onlycoin oferece recursos avançados, como perfis de usuário, recursos de mensagens e muito mais.
+- Em termos de envolvimento e recompensa da comunidade, Onlycoin recompensa seus usuários com tokens pela participação em diversas atividades. Os usuários podem ganhar tokens para criar conteúdo, verificar suas identidades e compartilhar a plataforma com outras pessoas. Esses tokens podem então ser usados ​​para comprar itens e serviços dentro do ecossistema Onlycoin. Este sistema único baseado em incentivos promove um forte sentido de comunidade e incentiva a participação ativa dos utilizadores.

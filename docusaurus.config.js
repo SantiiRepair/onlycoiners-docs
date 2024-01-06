@@ -6,7 +6,7 @@ const darkCodeTheme = require("prism-react-renderer").themes.dracula;
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: "OnlyCoiners Documentation",
+  title: "OnlyCoiners Docs",
   tagline: "Documentation for the OnlyCoiners protocol",
   url: "https://docs.onlycoiners.com",
   baseUrl: "/",
@@ -25,6 +25,17 @@ const config = {
   i18n: {
     defaultLocale: "en",
     locales: ["en", "es", "pt"],
+    localeConfigs: {
+      en: {
+        label: "English",
+      },
+      es: {
+        label: "Español",
+      },
+      pt: {
+        label: "Português",
+      },
+    },
   },
 
   presets: [
@@ -35,14 +46,7 @@ const config = {
         docs: {
           sidebarPath: require.resolve("./sidebars.js"),
           editUrl: "https://github.com/onlycoiners/docs/tree/main",
-          lastVersion: "current",
-          includeCurrentVersion: true,
-          versions: {
-            current: {
-              label: "Current",
-              path: "/",
-            },
-          },
+          routeBasePath: "/",
         },
         theme: {
           customCss: require.resolve("./src/css/custom.css"),

@@ -105,6 +105,10 @@ const config = {
                 href: "https://onlycoiners.com",
               },
               {
+                label: "Tiktok",
+                href: "https://www.tiktok.com/@onlycoiners",
+              },
+              {
                 label: "Telegram",
                 href: "https://t.me/OnlyCoiners",
               },

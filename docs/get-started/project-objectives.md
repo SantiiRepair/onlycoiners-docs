@@ -3,7 +3,7 @@ sidebar_position: 4
 sidebar_label: " 🎯 Project Objectives"
 ---
 
-#  🎯 Project Objectives
+# 🎯 Project Objectives
 
 Currently with a 1% tax that can be turned off, what we want is to attract a large user base for self-sustainability with the tax and a focus on continuous development to benefit our users.
 
@@ -14,4 +14,3 @@ In the area of development, we strive to constantly improve the software quality
 As for communication and user support, we also aim to provide an exceptional user experience. We offer effective communication channels, such as forums and notification systems, allowing users to quickly and efficiently express their concerns and concerns. Additionally, we have a highly skilled support team that is available to help users with any problems they may encounter.
 
 In summary, our long-term approach is to attract a large user base, offer them an exceptional user experience, and stay focused on continuous development and improvement of the software. By achieving this, we believe we can remain financially sustainable and ensure the long-term success of our project.
-

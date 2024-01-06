@@ -71,7 +71,7 @@ const config = {
             position: "right",
           },
           {
-            href: "https://github.com/onlycoiners",
+            href: "https://github.com/OnlyCoiners",
             position: "right",
             className: "header-github-link",
             "aria-label": "GitHub repository",

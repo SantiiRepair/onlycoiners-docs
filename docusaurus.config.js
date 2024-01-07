@@ -23,30 +23,39 @@ const config = {
   // metadata like html lang. For example, if your site is Chinese, you may want
   // to replace "en" with "zh-Hans".
   i18n: {
+    path: "i18n",
     defaultLocale: "en",
     locales: ["en", "es", "pt"],
     localeConfigs: {
       en: {
+        path: "en",
         label: "English",
+        direction: "ltr",
+        htmlLang: "en-US",
       },
       es: {
+        path: "es",
         label: "Español",
+        direction: "ltr",
+        htmlLang: "es-MX",
       },
       pt: {
+        path: "pt",
         label: "Português",
+        direction: "ltr",
+        htmlLang: "pt-PT",
       },
     },
   },
-
   presets: [
     [
       "classic",
       /** @type {import('@docusaurus/preset-classic').Options} */
       ({
         docs: {
+          routeBasePath: "/",
           sidebarPath: require.resolve("./sidebars.js"),
           editUrl: "https://github.com/onlycoiners/docs/tree/main",
-          routeBasePath: "/",
         },
         theme: {
           customCss: require.resolve("./src/css/custom.css"),

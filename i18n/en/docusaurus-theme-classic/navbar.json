@@ -1,0 +1,10 @@
+{
+  "title": {
+    "message": "Documentation",
+    "description": "The title in the navbar"
+  },
+  "logo.alt": {
+    "message": "OnlyCoiners",
+    "description": "The alt text of navbar logo"
+  }
+}

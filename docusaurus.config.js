@@ -10,18 +10,12 @@ const config = {
   tagline: "Documentation for the OnlyCoiners protocol",
   url: "https://docs.onlycoiners.com",
   baseUrl: "/",
+  trailingSlash: false,
   onBrokenLinks: "throw",
   onBrokenMarkdownLinks: "warn",
   favicon: "img/favicon.ico",
-
-  // GitHub pages deployment config.
-  // If you aren't using GitHub pages, you don't need these.
-  organizationName: "onlycoiners", // Usually your GitHub org/user name.
-  projectName: "onlycoiners-docs", // Usually your repo name.
-
-  // Even if you don't use internalization, you can use this field to set useful
-  // metadata like html lang. For example, if your site is Chinese, you may want
-  // to replace "en" with "zh-Hans".
+  organizationName: "OnlyCoiners", // Usually your GitHub org/user name.
+  projectName: "docs", // Usually your repo name.
   i18n: {
     path: "i18n",
     defaultLocale: "en",
@@ -53,9 +47,10 @@ const config = {
       /** @type {import('@docusaurus/preset-classic').Options} */
       ({
         docs: {
+          breadcrumbs: false,
           routeBasePath: "/",
           sidebarPath: require.resolve("./sidebars.js"),
-          editUrl: "https://github.com/onlycoiners/docs/tree/main",
+          editUrl: "https://github.com/OnlyCoiners/docs/tree/main",
         },
         theme: {
           customCss: require.resolve("./src/css/custom.css"),
@@ -80,6 +75,7 @@ const config = {
         },
         items: [
           {
+            queryString: "?persistLocale=true",
             type: "localeDropdown",
             position: "right",
           },

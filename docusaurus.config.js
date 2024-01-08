@@ -10,12 +10,13 @@ const config = {
   tagline: "Documentation for the OnlyCoiners protocol",
   url: "https://docs.onlycoiners.com",
   baseUrl: "/",
-  trailingSlash: false,
+  trailingSlash: true,
   onBrokenLinks: "throw",
   onBrokenMarkdownLinks: "warn",
   favicon: "img/favicon.ico",
-  organizationName: "OnlyCoiners", // Usually your GitHub org/user name.
+  organizationName: "onlycoiners", // Usually your GitHub org/user name.
   projectName: "docs", // Usually your repo name.
+  deploymentBranch: "gh-pages", // Branch where will be deployed static site.
   i18n: {
     defaultLocale: "en",
     locales: ["en", "es", "pt"],

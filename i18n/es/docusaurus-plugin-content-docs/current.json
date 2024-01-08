@@ -3,12 +3,12 @@
     "message": "Next",
     "description": "The label for version current"
   },
-  "sidebar.tutorialSidebar.category.🚀 Get Started": {
-    "message": "🚀 Get Started",
-    "description": "The label for category 🚀 Get Started in sidebar tutorialSidebar"
+  "sidebar.i18nSidebars.category.🚀 Get Started": {
+    "message": "🚀 Empezar",
+    "description": "The label for category 🚀 Get Started in sidebar i18nSidebars"
   },
-  "sidebar.tutorialSidebar.category.🚀 Get Started.link.generated-index.description": {
+  "sidebar.i18nSidebars.category.🚀 Get Started.link.generated-index.description": {
     "message": "Depending on your needs OnlyCoiners could be integrated in 3 different ways",
-    "description": "The generated-index page description for category 🚀 Get Started in sidebar tutorialSidebar"
+    "description": "The generated-index page description for category 🚀 Get Started in sidebar i18nSidebars"
   }
 }

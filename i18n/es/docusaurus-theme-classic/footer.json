@@ -3,9 +3,9 @@
     "message": "👋 Comunidad",
     "description": "The title of the footer links column with title=👋 Community in the footer"
   },
-  "link.title.🚀 We are hiring": {
-    "message": "🚀 Estamos contratando",
-    "description": "The title of the footer links column with title=🚀 We are hiring in the footer"
+  "link.title.📢 We are hiring": {
+    "message": "📢 Estamos contratando",
+    "description": "The title of the footer links column with title=📢 We are hiring in the footer"
   },
   "link.title.📚 More": {
     "message": "📚 Más",

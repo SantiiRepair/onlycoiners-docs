@@ -123,7 +123,7 @@ const config = {
             ],
           },
           {
-            title: "🚀 We are hiring",
+            title: "📢 We are hiring",
             items: [
               {
                 label: "Contact Us",

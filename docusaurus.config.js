@@ -17,24 +17,20 @@ const config = {
   organizationName: "OnlyCoiners", // Usually your GitHub org/user name.
   projectName: "docs", // Usually your repo name.
   i18n: {
-    path: "i18n",
     defaultLocale: "en",
     locales: ["en", "es", "pt"],
     localeConfigs: {
       en: {
-        path: "en",
         label: "English",
         direction: "ltr",
         htmlLang: "en-US",
       },
       es: {
-        path: "es",
         label: "Español",
         direction: "ltr",
         htmlLang: "es-MX",
       },
       pt: {
-        path: "pt",
         label: "Português",
         direction: "ltr",
         htmlLang: "pt-PT",
@@ -47,7 +43,6 @@ const config = {
       /** @type {import('@docusaurus/preset-classic').Options} */
       ({
         docs: {
-          breadcrumbs: false,
           routeBasePath: "/",
           sidebarPath: require.resolve("./sidebars.js"),
           editUrl: "https://github.com/OnlyCoiners/docs/tree/main",

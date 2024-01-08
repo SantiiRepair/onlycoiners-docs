@@ -1,0 +1,9 @@
+# crowdin configuration file
+api_token_env: CROWDIN_API_TOKEN
+project_id_env: CROWDIN_PROJECT_ID
+files:
+  - source: /i18n/en/code.json
+    translation: /i18n/%locale%/%original_file_name%
+  # Docs Markdown files
+  - source: /docs/**/*
+    translation: /i18n/%locale%/docusaurus-plugin-content-docs/current/**/%original_file_name%

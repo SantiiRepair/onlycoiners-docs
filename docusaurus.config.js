@@ -75,7 +75,6 @@ const config = {
         },
         items: [
           {
-            queryString: "?persistLocale=true",
             type: "localeDropdown",
             position: "right",
           },
